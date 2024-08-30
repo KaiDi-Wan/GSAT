@@ -1,5 +1,5 @@
 # GMS
-
+修改和学习一下
 GMS is a graph neural network model which can learn to predict the solution of MaxSAT problem, an optimization variant of the well-known Boolean Satisfiability problem (SAT).
 
 ### Usage
