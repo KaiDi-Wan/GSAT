@@ -1,0 +1,43 @@
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.3333, var loss: 0.3333 obj_diff: 15.747 var acc: 0.794, TP: 0.366, TN: 0.428, FN: 0.133, FP: 0.073; 
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000

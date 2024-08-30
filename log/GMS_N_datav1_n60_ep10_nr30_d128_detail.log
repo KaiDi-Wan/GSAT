@@ -1,0 +1,782 @@
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.6871, var loss: 0.6871 obj_diff: 70.360 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 0.6557, var loss: 0.6557 obj_diff: 53.224 var acc: 0.583, TP: 0.105, TN: 0.478, FN: 0.395, FP: 0.022; 
+tot loss: 0.5627, var loss: 0.5627 obj_diff: 43.802 var acc: 0.634, TP: 0.192, TN: 0.442, FN: 0.307, FP: 0.058; 
+tot loss: 0.4648, var loss: 0.4648 obj_diff: 37.552 var acc: 0.666, TP: 0.243, TN: 0.424, FN: 0.257, FP: 0.077; 
+tot loss: 0.3862, var loss: 0.3862 obj_diff: 31.563 var acc: 0.699, TP: 0.278, TN: 0.421, FN: 0.222, FP: 0.079; 
+[2/10 epoch] previous best: var acc 0.868; obj diff 4.787
+tot loss: 0.3066, var loss: 0.3066 obj_diff: 4.203 var acc: 0.871, TP: 0.437, TN: 0.434, FN: 0.063, FP: 0.066; 
+tot loss: 0.2958, var loss: 0.2958 obj_diff: 3.755 var acc: 0.875, TP: 0.438, TN: 0.437, FN: 0.062, FP: 0.063; 
+tot loss: 0.2639, var loss: 0.2639 obj_diff: 3.517 var acc: 0.878, TP: 0.439, TN: 0.439, FN: 0.060, FP: 0.062; 
+tot loss: 0.2486, var loss: 0.2486 obj_diff: 3.364 var acc: 0.880, TP: 0.440, TN: 0.440, FN: 0.060, FP: 0.060; 
+tot loss: 0.2855, var loss: 0.2855 obj_diff: 3.238 var acc: 0.882, TP: 0.441, TN: 0.441, FN: 0.058, FP: 0.059; 
+[3/10 epoch] previous best: var acc 0.892; obj diff 2.392
+tot loss: 0.2533, var loss: 0.2533 obj_diff: 2.660 var acc: 0.893, TP: 0.446, TN: 0.446, FN: 0.054, FP: 0.053; 
+tot loss: 0.2586, var loss: 0.2586 obj_diff: 2.584 var acc: 0.893, TP: 0.446, TN: 0.447, FN: 0.054, FP: 0.053; 
+tot loss: 0.2427, var loss: 0.2427 obj_diff: 2.589 var acc: 0.893, TP: 0.446, TN: 0.447, FN: 0.054, FP: 0.053; 
+tot loss: 0.2344, var loss: 0.2344 obj_diff: 2.549 var acc: 0.894, TP: 0.446, TN: 0.447, FN: 0.053, FP: 0.053; 
+tot loss: 0.2653, var loss: 0.2653 obj_diff: 2.508 var acc: 0.895, TP: 0.447, TN: 0.448, FN: 0.053, FP: 0.053; 
+[4/10 epoch] previous best: var acc 0.899; obj diff 2.033
+tot loss: 0.2411, var loss: 0.2411 obj_diff: 2.371 var acc: 0.899, TP: 0.450, TN: 0.449, FN: 0.051, FP: 0.050; 
+tot loss: 0.2474, var loss: 0.2474 obj_diff: 2.331 var acc: 0.899, TP: 0.449, TN: 0.450, FN: 0.051, FP: 0.050; 
+tot loss: 0.2300, var loss: 0.2300 obj_diff: 2.368 var acc: 0.898, TP: 0.448, TN: 0.450, FN: 0.051, FP: 0.051; 
+tot loss: 0.2304, var loss: 0.2304 obj_diff: 2.354 var acc: 0.898, TP: 0.448, TN: 0.450, FN: 0.051, FP: 0.051; 
+tot loss: 0.2573, var loss: 0.2573 obj_diff: 2.321 var acc: 0.899, TP: 0.449, TN: 0.450, FN: 0.051, FP: 0.050; 
+[5/10 epoch] previous best: var acc 0.904; obj diff 1.911
+tot loss: 0.2331, var loss: 0.2331 obj_diff: 2.172 var acc: 0.903, TP: 0.451, TN: 0.451, FN: 0.049, FP: 0.048; 
+tot loss: 0.2408, var loss: 0.2408 obj_diff: 2.171 var acc: 0.902, TP: 0.450, TN: 0.452, FN: 0.049, FP: 0.049; 
+tot loss: 0.2278, var loss: 0.2278 obj_diff: 2.209 var acc: 0.901, TP: 0.450, TN: 0.451, FN: 0.050, FP: 0.049; 
+tot loss: 0.2259, var loss: 0.2259 obj_diff: 2.192 var acc: 0.901, TP: 0.450, TN: 0.451, FN: 0.050, FP: 0.049; 
+tot loss: 0.2528, var loss: 0.2528 obj_diff: 2.154 var acc: 0.902, TP: 0.450, TN: 0.452, FN: 0.049, FP: 0.049; 
+[6/10 epoch] previous best: var acc 0.905; obj diff 1.767
+tot loss: 0.2287, var loss: 0.2287 obj_diff: 2.028 var acc: 0.905, TP: 0.452, TN: 0.452, FN: 0.048, FP: 0.047; 
+tot loss: 0.2378, var loss: 0.2378 obj_diff: 2.007 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+tot loss: 0.2281, var loss: 0.2281 obj_diff: 2.040 var acc: 0.903, TP: 0.451, TN: 0.452, FN: 0.049, FP: 0.048; 
+tot loss: 0.2217, var loss: 0.2217 obj_diff: 2.028 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+tot loss: 0.2490, var loss: 0.2490 obj_diff: 1.995 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+[7/10 epoch] previous best: var acc 0.908; obj diff 1.685
+tot loss: 0.2255, var loss: 0.2255 obj_diff: 1.826 var acc: 0.907, TP: 0.454, TN: 0.453, FN: 0.047, FP: 0.046; 
+tot loss: 0.2366, var loss: 0.2366 obj_diff: 1.832 var acc: 0.906, TP: 0.452, TN: 0.454, FN: 0.047, FP: 0.047; 
+tot loss: 0.2262, var loss: 0.2262 obj_diff: 1.868 var acc: 0.905, TP: 0.452, TN: 0.453, FN: 0.048, FP: 0.047; 
+tot loss: 0.2203, var loss: 0.2203 obj_diff: 1.864 var acc: 0.905, TP: 0.452, TN: 0.453, FN: 0.047, FP: 0.047; 
+tot loss: 0.2469, var loss: 0.2469 obj_diff: 1.841 var acc: 0.906, TP: 0.452, TN: 0.454, FN: 0.047, FP: 0.047; 
+[8/10 epoch] previous best: var acc 0.909; obj diff 1.545
+tot loss: 0.2223, var loss: 0.2223 obj_diff: 1.711 var acc: 0.908, TP: 0.454, TN: 0.454, FN: 0.046, FP: 0.046; 
+tot loss: 0.2333, var loss: 0.2333 obj_diff: 1.711 var acc: 0.907, TP: 0.453, TN: 0.454, FN: 0.047, FP: 0.046; 
+tot loss: 0.2253, var loss: 0.2253 obj_diff: 1.735 var acc: 0.907, TP: 0.453, TN: 0.454, FN: 0.047, FP: 0.046; 
+tot loss: 0.2206, var loss: 0.2206 obj_diff: 1.746 var acc: 0.907, TP: 0.453, TN: 0.454, FN: 0.047, FP: 0.046; 
+tot loss: 0.2455, var loss: 0.2455 obj_diff: 1.724 var acc: 0.908, TP: 0.453, TN: 0.454, FN: 0.046, FP: 0.046; 
+[9/10 epoch] previous best: var acc 0.911; obj diff 1.472
+tot loss: 0.2195, var loss: 0.2195 obj_diff: 1.633 var acc: 0.909, TP: 0.455, TN: 0.455, FN: 0.046, FP: 0.045; 
+tot loss: 0.2306, var loss: 0.2306 obj_diff: 1.635 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.046, FP: 0.046; 
+tot loss: 0.2232, var loss: 0.2232 obj_diff: 1.652 var acc: 0.908, TP: 0.453, TN: 0.454, FN: 0.046, FP: 0.046; 
+tot loss: 0.2187, var loss: 0.2187 obj_diff: 1.663 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.046, FP: 0.046; 
+tot loss: 0.2444, var loss: 0.2444 obj_diff: 1.646 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.046; 
+[10/10 epoch] previous best: var acc 0.912; obj diff 1.400
+tot loss: 0.2175, var loss: 0.2175 obj_diff: 1.558 var acc: 0.911, TP: 0.455, TN: 0.455, FN: 0.045, FP: 0.044; 
+tot loss: 0.2289, var loss: 0.2289 obj_diff: 1.570 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.045; 
+tot loss: 0.2226, var loss: 0.2226 obj_diff: 1.589 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.045; 
+tot loss: 0.2170, var loss: 0.2170 obj_diff: 1.594 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.045, FP: 0.045; 
+tot loss: 0.2434, var loss: 0.2434 obj_diff: 1.578 var acc: 0.910, TP: 0.454, TN: 0.456, FN: 0.045, FP: 0.045; 
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.6848, var loss: 0.6848 obj_diff: 70.229 var acc: 0.500, TP: 0.001, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 0.6439, var loss: 0.6439 obj_diff: 53.513 var acc: 0.581, TP: 0.097, TN: 0.483, FN: 0.402, FP: 0.017; 
+tot loss: 0.5383, var loss: 0.5383 obj_diff: 43.795 var acc: 0.633, TP: 0.185, TN: 0.448, FN: 0.315, FP: 0.052; 
+tot loss: 0.4880, var loss: 0.4880 obj_diff: 37.993 var acc: 0.663, TP: 0.236, TN: 0.427, FN: 0.263, FP: 0.073; 
+tot loss: 0.4293, var loss: 0.4293 obj_diff: 32.715 var acc: 0.691, TP: 0.269, TN: 0.422, FN: 0.231, FP: 0.078; 
+[2/10 epoch] previous best: var acc 0.832; obj diff 7.663
+tot loss: 0.3400, var loss: 0.3400 obj_diff: 6.480 var acc: 0.843, TP: 0.422, TN: 0.421, FN: 0.078, FP: 0.079; 
+tot loss: 0.3381, var loss: 0.3381 obj_diff: 5.809 var acc: 0.851, TP: 0.425, TN: 0.426, FN: 0.075, FP: 0.075; 
+tot loss: 0.2894, var loss: 0.2894 obj_diff: 5.476 var acc: 0.855, TP: 0.427, TN: 0.428, FN: 0.073, FP: 0.072; 
+tot loss: 0.2674, var loss: 0.2674 obj_diff: 5.178 var acc: 0.858, TP: 0.428, TN: 0.430, FN: 0.071, FP: 0.071; 
+tot loss: 0.3017, var loss: 0.3017 obj_diff: 4.912 var acc: 0.862, TP: 0.430, TN: 0.432, FN: 0.069, FP: 0.069; 
+[3/10 epoch] previous best: var acc 0.882; obj diff 3.244
+tot loss: 0.2740, var loss: 0.2740 obj_diff: 3.425 var acc: 0.882, TP: 0.441, TN: 0.441, FN: 0.059, FP: 0.059; 
+tot loss: 0.2792, var loss: 0.2792 obj_diff: 3.318 var acc: 0.883, TP: 0.440, TN: 0.442, FN: 0.059, FP: 0.058; 
+tot loss: 0.2495, var loss: 0.2495 obj_diff: 3.256 var acc: 0.883, TP: 0.441, TN: 0.442, FN: 0.059, FP: 0.058; 
+tot loss: 0.2369, var loss: 0.2369 obj_diff: 3.200 var acc: 0.884, TP: 0.441, TN: 0.443, FN: 0.058, FP: 0.057; 
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.6783, var loss: 0.6783 obj_diff: 55.577 var acc: 0.564, TP: 0.495, TN: 0.069, FN: 0.006, FP: 0.430; 
+tot loss: 0.6178, var loss: 0.6178 obj_diff: 41.004 var acc: 0.643, TP: 0.464, TN: 0.178, FN: 0.035, FP: 0.322; 
+tot loss: 0.5370, var loss: 0.5370 obj_diff: 35.309 var acc: 0.675, TP: 0.438, TN: 0.237, FN: 0.061, FP: 0.263; 
+tot loss: 0.4476, var loss: 0.4476 obj_diff: 30.667 var acc: 0.700, TP: 0.423, TN: 0.277, FN: 0.076, FP: 0.224; 
+tot loss: 0.4126, var loss: 0.4126 obj_diff: 26.469 var acc: 0.723, TP: 0.420, TN: 0.303, FN: 0.079, FP: 0.197; 
+[2/10 epoch] previous best: var acc 0.850; obj diff 5.585
+tot loss: 0.3212, var loss: 0.3212 obj_diff: 5.031 var acc: 0.859, TP: 0.429, TN: 0.429, FN: 0.071, FP: 0.070; 
+tot loss: 0.3193, var loss: 0.3193 obj_diff: 4.725 var acc: 0.864, TP: 0.431, TN: 0.433, FN: 0.069, FP: 0.067; 
+tot loss: 0.2683, var loss: 0.2683 obj_diff: 4.457 var acc: 0.867, TP: 0.433, TN: 0.435, FN: 0.067, FP: 0.066; 
+tot loss: 0.2539, var loss: 0.2539 obj_diff: 4.193 var acc: 0.871, TP: 0.434, TN: 0.436, FN: 0.065, FP: 0.064; 
+tot loss: 0.2891, var loss: 0.2891 obj_diff: 3.959 var acc: 0.874, TP: 0.436, TN: 0.438, FN: 0.064, FP: 0.063; 
+[3/10 epoch] previous best: var acc 0.890; obj diff 2.526
+tot loss: 0.2595, var loss: 0.2595 obj_diff: 2.861 var acc: 0.890, TP: 0.445, TN: 0.445, FN: 0.056, FP: 0.055; 
+tot loss: 0.2688, var loss: 0.2688 obj_diff: 2.749 var acc: 0.890, TP: 0.444, TN: 0.446, FN: 0.056, FP: 0.054; 
+tot loss: 0.2418, var loss: 0.2418 obj_diff: 2.703 var acc: 0.890, TP: 0.444, TN: 0.446, FN: 0.055, FP: 0.054; 
+tot loss: 0.2363, var loss: 0.2363 obj_diff: 2.662 var acc: 0.891, TP: 0.444, TN: 0.447, FN: 0.055, FP: 0.054; 
+tot loss: 0.2710, var loss: 0.2710 obj_diff: 2.604 var acc: 0.892, TP: 0.445, TN: 0.447, FN: 0.054, FP: 0.053; 
+[4/10 epoch] previous best: var acc 0.898; obj diff 1.902
+tot loss: 0.2411, var loss: 0.2411 obj_diff: 2.360 var acc: 0.898, TP: 0.449, TN: 0.449, FN: 0.051, FP: 0.051; 
+tot loss: 0.2503, var loss: 0.2503 obj_diff: 2.318 var acc: 0.898, TP: 0.448, TN: 0.450, FN: 0.052, FP: 0.051; 
+tot loss: 0.2275, var loss: 0.2275 obj_diff: 2.343 var acc: 0.897, TP: 0.448, TN: 0.450, FN: 0.052, FP: 0.051; 
+tot loss: 0.2304, var loss: 0.2304 obj_diff: 2.349 var acc: 0.898, TP: 0.448, TN: 0.450, FN: 0.052, FP: 0.051; 
+tot loss: 0.2623, var loss: 0.2623 obj_diff: 2.316 var acc: 0.898, TP: 0.448, TN: 0.450, FN: 0.051, FP: 0.050; 
+[5/10 epoch] previous best: var acc 0.903; obj diff 1.867
+tot loss: 0.2343, var loss: 0.2343 obj_diff: 2.182 var acc: 0.902, TP: 0.451, TN: 0.451, FN: 0.049, FP: 0.049; 
+tot loss: 0.2429, var loss: 0.2429 obj_diff: 2.147 var acc: 0.901, TP: 0.450, TN: 0.452, FN: 0.050, FP: 0.049; 
+tot loss: 0.2324, var loss: 0.2324 obj_diff: 2.170 var acc: 0.901, TP: 0.449, TN: 0.451, FN: 0.050, FP: 0.049; 
+tot loss: 0.2260, var loss: 0.2260 obj_diff: 2.168 var acc: 0.901, TP: 0.450, TN: 0.451, FN: 0.050, FP: 0.049; 
+tot loss: 0.2566, var loss: 0.2566 obj_diff: 2.134 var acc: 0.902, TP: 0.450, TN: 0.452, FN: 0.049, FP: 0.049; 
+[6/10 epoch] previous best: var acc 0.906; obj diff 1.773
+tot loss: 0.2290, var loss: 0.2290 obj_diff: 1.988 var acc: 0.905, TP: 0.453, TN: 0.452, FN: 0.048, FP: 0.047; 
+tot loss: 0.2463, var loss: 0.2463 obj_diff: 1.969 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+tot loss: 0.2312, var loss: 0.2312 obj_diff: 1.993 var acc: 0.903, TP: 0.451, TN: 0.452, FN: 0.049, FP: 0.048; 
+tot loss: 0.2229, var loss: 0.2229 obj_diff: 1.979 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+tot loss: 0.2515, var loss: 0.2515 obj_diff: 1.946 var acc: 0.905, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+[7/10 epoch] previous best: var acc 0.908; obj diff 1.641
+tot loss: 0.2244, var loss: 0.2244 obj_diff: 1.800 var acc: 0.907, TP: 0.454, TN: 0.453, FN: 0.046, FP: 0.046; 
+tot loss: 0.2427, var loss: 0.2427 obj_diff: 1.797 var acc: 0.906, TP: 0.452, TN: 0.454, FN: 0.047, FP: 0.047; 
+tot loss: 0.2330, var loss: 0.2330 obj_diff: 1.822 var acc: 0.906, TP: 0.452, TN: 0.453, FN: 0.047, FP: 0.047; 
+tot loss: 0.2205, var loss: 0.2205 obj_diff: 1.814 var acc: 0.906, TP: 0.452, TN: 0.454, FN: 0.047, FP: 0.047; 
+tot loss: 0.2478, var loss: 0.2478 obj_diff: 1.786 var acc: 0.907, TP: 0.453, TN: 0.454, FN: 0.047, FP: 0.047; 
+[8/10 epoch] previous best: var acc 0.910; obj diff 1.601
+tot loss: 0.2211, var loss: 0.2211 obj_diff: 1.689 var acc: 0.909, TP: 0.455, TN: 0.454, FN: 0.046, FP: 0.045; 
+tot loss: 0.2360, var loss: 0.2360 obj_diff: 1.687 var acc: 0.908, TP: 0.453, TN: 0.454, FN: 0.046, FP: 0.046; 
+tot loss: 0.2329, var loss: 0.2329 obj_diff: 1.710 var acc: 0.907, TP: 0.453, TN: 0.454, FN: 0.047, FP: 0.046; 
+tot loss: 0.2198, var loss: 0.2198 obj_diff: 1.710 var acc: 0.908, TP: 0.453, TN: 0.454, FN: 0.046, FP: 0.046; 
+tot loss: 0.2452, var loss: 0.2452 obj_diff: 1.689 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.046, FP: 0.046; 
+[9/10 epoch] previous best: var acc 0.912; obj diff 1.468
+tot loss: 0.2183, var loss: 0.2183 obj_diff: 1.604 var acc: 0.910, TP: 0.455, TN: 0.455, FN: 0.045, FP: 0.045; 
+tot loss: 0.2311, var loss: 0.2311 obj_diff: 1.606 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.046; 
+tot loss: 0.2328, var loss: 0.2328 obj_diff: 1.626 var acc: 0.908, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.046; 
+tot loss: 0.2210, var loss: 0.2210 obj_diff: 1.622 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.046; 
+tot loss: 0.2427, var loss: 0.2427 obj_diff: 1.605 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.045, FP: 0.045; 
+[10/10 epoch] previous best: var acc 0.913; obj diff 1.388
+tot loss: 0.2163, var loss: 0.2163 obj_diff: 1.529 var acc: 0.911, TP: 0.456, TN: 0.455, FN: 0.045, FP: 0.044; 
+tot loss: 0.2336, var loss: 0.2336 obj_diff: 1.546 var acc: 0.910, TP: 0.454, TN: 0.456, FN: 0.045, FP: 0.045; 
+tot loss: 0.2296, var loss: 0.2296 obj_diff: 1.561 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.045; 
+tot loss: 0.2228, var loss: 0.2228 obj_diff: 1.552 var acc: 0.910, TP: 0.454, TN: 0.456, FN: 0.045, FP: 0.045; 
+tot loss: 0.2408, var loss: 0.2408 obj_diff: 1.540 var acc: 0.910, TP: 0.454, TN: 0.456, FN: 0.045, FP: 0.045; 
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.6843, var loss: 0.6843 obj_diff: 66.278 var acc: 0.518, TP: 0.027, TN: 0.491, FN: 0.474, FP: 0.008; 
+tot loss: 0.6189, var loss: 0.6189 obj_diff: 50.317 var acc: 0.600, TP: 0.150, TN: 0.450, FN: 0.350, FP: 0.050; 
+tot loss: 0.4846, var loss: 0.4846 obj_diff: 38.194 var acc: 0.663, TP: 0.228, TN: 0.435, FN: 0.272, FP: 0.066; 
+tot loss: 0.3950, var loss: 0.3950 obj_diff: 30.317 var acc: 0.708, TP: 0.275, TN: 0.433, FN: 0.225, FP: 0.067; 
+tot loss: 0.3711, var loss: 0.3711 obj_diff: 25.294 var acc: 0.738, TP: 0.305, TN: 0.433, FN: 0.195, FP: 0.068; 
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.6778, var loss: 0.6778 obj_diff: 55.123 var acc: 0.569, TP: 0.207, TN: 0.361, FN: 0.293, FP: 0.138; 
+tot loss: 0.6066, var loss: 0.6066 obj_diff: 42.532 var acc: 0.638, TP: 0.275, TN: 0.362, FN: 0.224, FP: 0.138; 
+tot loss: 0.4825, var loss: 0.4825 obj_diff: 32.643 var acc: 0.690, TP: 0.316, TN: 0.374, FN: 0.184, FP: 0.126; 
+tot loss: 0.3963, var loss: 0.3963 obj_diff: 26.195 var acc: 0.727, TP: 0.341, TN: 0.386, FN: 0.158, FP: 0.114; 
+tot loss: 0.3788, var loss: 0.3788 obj_diff: 22.080 var acc: 0.753, TP: 0.358, TN: 0.395, FN: 0.141, FP: 0.106; 
+[2/10 epoch] previous best: var acc 0.872; obj diff 3.997
+tot loss: 0.3356, var loss: 0.3356 obj_diff: 4.533 var acc: 0.869, TP: 0.434, TN: 0.435, FN: 0.067, FP: 0.064; 
+tot loss: 0.3319, var loss: 0.3319 obj_diff: 4.319 var acc: 0.871, TP: 0.434, TN: 0.437, FN: 0.065, FP: 0.064; 
+tot loss: 0.2847, var loss: 0.2847 obj_diff: 4.221 var acc: 0.872, TP: 0.435, TN: 0.438, FN: 0.065, FP: 0.063; 
+tot loss: 0.2704, var loss: 0.2704 obj_diff: 4.106 var acc: 0.874, TP: 0.435, TN: 0.439, FN: 0.064, FP: 0.062; 
+tot loss: 0.3110, var loss: 0.3110 obj_diff: 3.998 var acc: 0.876, TP: 0.436, TN: 0.439, FN: 0.063, FP: 0.061; 
+[3/10 epoch] previous best: var acc 0.891; obj diff 2.615
+tot loss: 0.2766, var loss: 0.2766 obj_diff: 3.333 var acc: 0.886, TP: 0.442, TN: 0.444, FN: 0.059, FP: 0.055; 
+tot loss: 0.2928, var loss: 0.2928 obj_diff: 3.238 var acc: 0.886, TP: 0.441, TN: 0.445, FN: 0.058, FP: 0.056; 
+tot loss: 0.2607, var loss: 0.2607 obj_diff: 3.231 var acc: 0.886, TP: 0.442, TN: 0.445, FN: 0.058, FP: 0.056; 
+tot loss: 0.2390, var loss: 0.2390 obj_diff: 3.176 var acc: 0.888, TP: 0.442, TN: 0.445, FN: 0.057, FP: 0.055; 
+tot loss: 0.2842, var loss: 0.2842 obj_diff: 3.120 var acc: 0.889, TP: 0.443, TN: 0.446, FN: 0.057, FP: 0.055; 
+[4/10 epoch] previous best: var acc 0.898; obj diff 2.171
+tot loss: 0.2502, var loss: 0.2502 obj_diff: 2.811 var acc: 0.894, TP: 0.447, TN: 0.448, FN: 0.054, FP: 0.052; 
+tot loss: 0.2723, var loss: 0.2723 obj_diff: 2.781 var acc: 0.894, TP: 0.446, TN: 0.448, FN: 0.054, FP: 0.052; 
+tot loss: 0.2361, var loss: 0.2361 obj_diff: 2.802 var acc: 0.893, TP: 0.445, TN: 0.448, FN: 0.054, FP: 0.053; 
+tot loss: 0.2317, var loss: 0.2317 obj_diff: 2.754 var acc: 0.894, TP: 0.446, TN: 0.448, FN: 0.054, FP: 0.052; 
+tot loss: 0.2781, var loss: 0.2781 obj_diff: 2.701 var acc: 0.895, TP: 0.446, TN: 0.449, FN: 0.053, FP: 0.052; 
+[5/10 epoch] previous best: var acc 0.903; obj diff 1.798
+tot loss: 0.2473, var loss: 0.2473 obj_diff: 2.462 var acc: 0.899, TP: 0.449, TN: 0.450, FN: 0.051, FP: 0.050; 
+tot loss: 0.2577, var loss: 0.2577 obj_diff: 2.449 var acc: 0.898, TP: 0.448, TN: 0.450, FN: 0.051, FP: 0.050; 
+tot loss: 0.2346, var loss: 0.2346 obj_diff: 2.456 var acc: 0.898, TP: 0.448, TN: 0.450, FN: 0.052, FP: 0.050; 
+tot loss: 0.2321, var loss: 0.2321 obj_diff: 2.427 var acc: 0.899, TP: 0.448, TN: 0.450, FN: 0.051, FP: 0.050; 
+tot loss: 0.2693, var loss: 0.2693 obj_diff: 2.385 var acc: 0.899, TP: 0.449, TN: 0.451, FN: 0.051, FP: 0.050; 
+[6/10 epoch] previous best: var acc 0.905; obj diff 1.581
+tot loss: 0.2450, var loss: 0.2450 obj_diff: 2.221 var acc: 0.903, TP: 0.451, TN: 0.452, FN: 0.050, FP: 0.048; 
+tot loss: 0.2492, var loss: 0.2492 obj_diff: 2.199 var acc: 0.902, TP: 0.450, TN: 0.452, FN: 0.050, FP: 0.049; 
+tot loss: 0.2291, var loss: 0.2291 obj_diff: 2.222 var acc: 0.901, TP: 0.450, TN: 0.451, FN: 0.050, FP: 0.049; 
+tot loss: 0.2282, var loss: 0.2282 obj_diff: 2.202 var acc: 0.902, TP: 0.450, TN: 0.452, FN: 0.050, FP: 0.049; 
+tot loss: 0.2596, var loss: 0.2596 obj_diff: 2.169 var acc: 0.902, TP: 0.450, TN: 0.452, FN: 0.049, FP: 0.048; 
+[7/10 epoch] previous best: var acc 0.907; obj diff 1.488
+tot loss: 0.2350, var loss: 0.2350 obj_diff: 2.007 var acc: 0.905, TP: 0.453, TN: 0.453, FN: 0.048, FP: 0.047; 
+tot loss: 0.2534, var loss: 0.2534 obj_diff: 2.040 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+tot loss: 0.2227, var loss: 0.2227 obj_diff: 2.079 var acc: 0.903, TP: 0.451, TN: 0.453, FN: 0.049, FP: 0.048; 
+tot loss: 0.2263, var loss: 0.2263 obj_diff: 2.060 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+tot loss: 0.2637, var loss: 0.2637 obj_diff: 2.024 var acc: 0.904, TP: 0.451, TN: 0.453, FN: 0.048, FP: 0.048; 
+[8/10 epoch] previous best: var acc 0.909; obj diff 1.379
+tot loss: 0.2303, var loss: 0.2303 obj_diff: 1.911 var acc: 0.907, TP: 0.453, TN: 0.453, FN: 0.047, FP: 0.046; 
+tot loss: 0.2442, var loss: 0.2442 obj_diff: 1.935 var acc: 0.905, TP: 0.452, TN: 0.454, FN: 0.048, FP: 0.047; 
+tot loss: 0.2283, var loss: 0.2283 obj_diff: 1.955 var acc: 0.905, TP: 0.452, TN: 0.453, FN: 0.048, FP: 0.047; 
+tot loss: 0.2289, var loss: 0.2289 obj_diff: 1.947 var acc: 0.906, TP: 0.452, TN: 0.454, FN: 0.048, FP: 0.047; 
+tot loss: 0.2563, var loss: 0.2563 obj_diff: 1.910 var acc: 0.906, TP: 0.452, TN: 0.454, FN: 0.047, FP: 0.047; 
+[9/10 epoch] previous best: var acc 0.910; obj diff 1.327
+tot loss: 0.2258, var loss: 0.2258 obj_diff: 1.813 var acc: 0.908, TP: 0.454, TN: 0.454, FN: 0.046, FP: 0.045; 
+tot loss: 0.2406, var loss: 0.2406 obj_diff: 1.829 var acc: 0.907, TP: 0.452, TN: 0.455, FN: 0.047, FP: 0.046; 
+tot loss: 0.2209, var loss: 0.2209 obj_diff: 1.864 var acc: 0.907, TP: 0.452, TN: 0.454, FN: 0.047, FP: 0.046; 
+tot loss: 0.2284, var loss: 0.2284 obj_diff: 1.854 var acc: 0.907, TP: 0.453, TN: 0.454, FN: 0.047, FP: 0.046; 
+tot loss: 0.2621, var loss: 0.2621 obj_diff: 1.828 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.047, FP: 0.046; 
+[10/10 epoch] previous best: var acc 0.911; obj diff 1.260
+tot loss: 0.2236, var loss: 0.2236 obj_diff: 1.741 var acc: 0.909, TP: 0.454, TN: 0.455, FN: 0.046, FP: 0.044; 
+tot loss: 0.2386, var loss: 0.2386 obj_diff: 1.760 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.047, FP: 0.045; 
+tot loss: 0.2189, var loss: 0.2189 obj_diff: 1.786 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.047, FP: 0.046; 
+tot loss: 0.2297, var loss: 0.2297 obj_diff: 1.787 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.046, FP: 0.046; 
+tot loss: 0.2494, var loss: 0.2494 obj_diff: 1.759 var acc: 0.908, TP: 0.453, TN: 0.455, FN: 0.046, FP: 0.045; 
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 60
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 1001
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 1000
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.2350obj_diff: 71.360 var acc: 0.495, TP: 0.005, TN: 0.490, FN: 0.499, FP: 0.006; 
+tot loss: 0.2550obj_diff: 71.305 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2583obj_diff: 71.237 var acc: 0.505, TP: 0.007, TN: 0.498, FN: 0.490, FP: 0.006; 
+tot loss: 0.2617obj_diff: 70.877 var acc: 0.503, TP: 0.007, TN: 0.496, FN: 0.491, FP: 0.007; 
+tot loss: 0.2317obj_diff: 70.900 var acc: 0.503, TP: 0.007, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2683obj_diff: 70.832 var acc: 0.502, TP: 0.007, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2717obj_diff: 70.879 var acc: 0.501, TP: 0.007, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2450obj_diff: 70.779 var acc: 0.501, TP: 0.007, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2217obj_diff: 70.713 var acc: 0.502, TP: 0.007, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2583obj_diff: 70.689 var acc: 0.502, TP: 0.006, TN: 0.495, FN: 0.492, FP: 0.006; 
+[2/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2417obj_diff: 71.510 var acc: 0.497, TP: 0.006, TN: 0.490, FN: 0.497, FP: 0.006; 
+tot loss: 0.2550obj_diff: 71.250 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2533obj_diff: 71.273 var acc: 0.504, TP: 0.007, TN: 0.497, FN: 0.490, FP: 0.007; 
+tot loss: 0.2567obj_diff: 70.838 var acc: 0.503, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2417obj_diff: 70.892 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.007; 
+tot loss: 0.2683obj_diff: 70.835 var acc: 0.501, TP: 0.006, TN: 0.495, FN: 0.492, FP: 0.007; 
+tot loss: 0.2650obj_diff: 70.869 var acc: 0.500, TP: 0.006, TN: 0.493, FN: 0.494, FP: 0.007; 
+tot loss: 0.2483obj_diff: 70.782 var acc: 0.500, TP: 0.006, TN: 0.494, FN: 0.493, FP: 0.007; 
+tot loss: 0.2217obj_diff: 70.717 var acc: 0.501, TP: 0.006, TN: 0.495, FN: 0.492, FP: 0.007; 
+tot loss: 0.2583obj_diff: 70.695 var acc: 0.501, TP: 0.006, TN: 0.495, FN: 0.492, FP: 0.006; 
+[3/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2350obj_diff: 70.880 var acc: 0.497, TP: 0.005, TN: 0.492, FN: 0.498, FP: 0.004; 
+tot loss: 0.2550obj_diff: 70.790 var acc: 0.504, TP: 0.006, TN: 0.498, FN: 0.491, FP: 0.005; 
+tot loss: 0.2517obj_diff: 70.830 var acc: 0.504, TP: 0.006, TN: 0.499, FN: 0.490, FP: 0.005; 
+tot loss: 0.2550obj_diff: 70.358 var acc: 0.504, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.005; 
+tot loss: 0.2467obj_diff: 70.502 var acc: 0.504, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.005; 
+tot loss: 0.2683obj_diff: 70.475 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.492, FP: 0.005; 
+tot loss: 0.2733obj_diff: 70.634 var acc: 0.501, TP: 0.006, TN: 0.495, FN: 0.494, FP: 0.005; 
+tot loss: 0.2450obj_diff: 70.519 var acc: 0.501, TP: 0.006, TN: 0.495, FN: 0.493, FP: 0.006; 
+tot loss: 0.2217obj_diff: 70.449 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2533obj_diff: 70.442 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+[4/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2417obj_diff: 71.060 var acc: 0.496, TP: 0.006, TN: 0.490, FN: 0.498, FP: 0.006; 
+tot loss: 0.2550obj_diff: 71.000 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2533obj_diff: 71.217 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.490, FP: 0.007; 
+tot loss: 0.2550obj_diff: 70.805 var acc: 0.503, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2417obj_diff: 70.856 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2817obj_diff: 70.853 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2717obj_diff: 70.933 var acc: 0.500, TP: 0.006, TN: 0.494, FN: 0.494, FP: 0.006; 
+tot loss: 0.2450obj_diff: 70.877 var acc: 0.500, TP: 0.006, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2217obj_diff: 70.732 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2700obj_diff: 70.745 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+[5/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2383obj_diff: 71.200 var acc: 0.495, TP: 0.006, TN: 0.489, FN: 0.497, FP: 0.007; 
+tot loss: 0.2683obj_diff: 71.070 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.007; 
+tot loss: 0.2533obj_diff: 71.027 var acc: 0.503, TP: 0.007, TN: 0.497, FN: 0.490, FP: 0.007; 
+tot loss: 0.2550obj_diff: 70.562 var acc: 0.503, TP: 0.007, TN: 0.496, FN: 0.491, FP: 0.007; 
+tot loss: 0.2450obj_diff: 70.628 var acc: 0.503, TP: 0.007, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2683obj_diff: 70.715 var acc: 0.502, TP: 0.006, TN: 0.495, FN: 0.492, FP: 0.006; 
+tot loss: 0.2717obj_diff: 70.861 var acc: 0.500, TP: 0.007, TN: 0.493, FN: 0.493, FP: 0.007; 
+tot loss: 0.2450obj_diff: 70.760 var acc: 0.501, TP: 0.007, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2217obj_diff: 70.659 var acc: 0.502, TP: 0.007, TN: 0.495, FN: 0.492, FP: 0.006; 
+tot loss: 0.2617obj_diff: 70.654 var acc: 0.502, TP: 0.007, TN: 0.496, FN: 0.492, FP: 0.006; 
+[6/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2350obj_diff: 70.970 var acc: 0.498, TP: 0.008, TN: 0.490, FN: 0.496, FP: 0.006; 
+tot loss: 0.2400obj_diff: 71.150 var acc: 0.504, TP: 0.007, TN: 0.497, FN: 0.490, FP: 0.006; 
+tot loss: 0.2533obj_diff: 70.963 var acc: 0.505, TP: 0.007, TN: 0.498, FN: 0.489, FP: 0.006; 
+tot loss: 0.2550obj_diff: 70.685 var acc: 0.504, TP: 0.007, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2467obj_diff: 70.668 var acc: 0.503, TP: 0.007, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2683obj_diff: 70.618 var acc: 0.502, TP: 0.007, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2717obj_diff: 70.753 var acc: 0.500, TP: 0.007, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2433obj_diff: 70.651 var acc: 0.501, TP: 0.007, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2300obj_diff: 70.586 var acc: 0.502, TP: 0.007, TN: 0.495, FN: 0.492, FP: 0.007; 
+tot loss: 0.2517obj_diff: 70.565 var acc: 0.502, TP: 0.007, TN: 0.495, FN: 0.492, FP: 0.007; 
+[7/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2350obj_diff: 71.390 var acc: 0.496, TP: 0.006, TN: 0.490, FN: 0.497, FP: 0.006; 
+tot loss: 0.2517obj_diff: 71.135 var acc: 0.503, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.007; 
+tot loss: 0.2533obj_diff: 71.173 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.490, FP: 0.007; 
+tot loss: 0.2500obj_diff: 70.760 var acc: 0.503, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2467obj_diff: 70.838 var acc: 0.503, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2683obj_diff: 70.820 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2717obj_diff: 70.884 var acc: 0.501, TP: 0.006, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2350obj_diff: 70.784 var acc: 0.501, TP: 0.007, TN: 0.495, FN: 0.493, FP: 0.006; 
+tot loss: 0.2267obj_diff: 70.708 var acc: 0.502, TP: 0.007, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2633obj_diff: 70.719 var acc: 0.502, TP: 0.007, TN: 0.496, FN: 0.492, FP: 0.006; 
+[8/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2350obj_diff: 70.860 var acc: 0.494, TP: 0.005, TN: 0.489, FN: 0.498, FP: 0.007; 
+tot loss: 0.2583obj_diff: 70.750 var acc: 0.502, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2533obj_diff: 70.850 var acc: 0.504, TP: 0.006, TN: 0.498, FN: 0.490, FP: 0.006; 
+tot loss: 0.2633obj_diff: 70.595 var acc: 0.502, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2417obj_diff: 70.742 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2683obj_diff: 70.787 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2717obj_diff: 70.820 var acc: 0.500, TP: 0.006, TN: 0.494, FN: 0.494, FP: 0.006; 
+tot loss: 0.2450obj_diff: 70.690 var acc: 0.501, TP: 0.007, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2233obj_diff: 70.602 var acc: 0.502, TP: 0.007, TN: 0.495, FN: 0.492, FP: 0.006; 
+tot loss: 0.2583obj_diff: 70.624 var acc: 0.502, TP: 0.007, TN: 0.495, FN: 0.492, FP: 0.006; 
+[9/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2350obj_diff: 71.060 var acc: 0.498, TP: 0.007, TN: 0.492, FN: 0.497, FP: 0.005; 
+tot loss: 0.2483obj_diff: 71.140 var acc: 0.504, TP: 0.007, TN: 0.497, FN: 0.490, FP: 0.006; 
+tot loss: 0.2533obj_diff: 71.183 var acc: 0.504, TP: 0.006, TN: 0.498, FN: 0.490, FP: 0.006; 
+tot loss: 0.2483obj_diff: 70.755 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.006; 
+tot loss: 0.2367obj_diff: 70.922 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.491, FP: 0.006; 
+tot loss: 0.2683obj_diff: 70.838 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2667obj_diff: 70.929 var acc: 0.500, TP: 0.006, TN: 0.494, FN: 0.494, FP: 0.006; 
+tot loss: 0.2433obj_diff: 70.810 var acc: 0.500, TP: 0.006, TN: 0.494, FN: 0.493, FP: 0.006; 
+tot loss: 0.2233obj_diff: 70.680 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2583obj_diff: 70.673 var acc: 0.502, TP: 0.007, TN: 0.496, FN: 0.492, FP: 0.006; 
+[10/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 0.2350obj_diff: 71.210 var acc: 0.498, TP: 0.007, TN: 0.491, FN: 0.497, FP: 0.005; 
+tot loss: 0.2550obj_diff: 70.975 var acc: 0.504, TP: 0.006, TN: 0.497, FN: 0.491, FP: 0.005; 
+tot loss: 0.2533obj_diff: 71.093 var acc: 0.504, TP: 0.006, TN: 0.498, FN: 0.490, FP: 0.006; 
+tot loss: 0.2583obj_diff: 70.655 var acc: 0.504, TP: 0.006, TN: 0.498, FN: 0.491, FP: 0.005; 
+tot loss: 0.2300obj_diff: 70.678 var acc: 0.503, TP: 0.006, TN: 0.497, FN: 0.492, FP: 0.005; 
+tot loss: 0.2633obj_diff: 70.560 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2683obj_diff: 70.674 var acc: 0.500, TP: 0.006, TN: 0.494, FN: 0.494, FP: 0.006; 
+tot loss: 0.2417obj_diff: 70.586 var acc: 0.501, TP: 0.006, TN: 0.495, FN: 0.493, FP: 0.006; 
+tot loss: 0.2417obj_diff: 70.469 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+tot loss: 0.2550obj_diff: 70.451 var acc: 0.502, TP: 0.006, TN: 0.496, FN: 0.492, FP: 0.006; 
+number of training batches: 593
+number of validation batches: 75
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+restore from model/GMS_N_datav1_n60_ep10_nr30_d128best_obj.pth.tar
+number of training batches: 616
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 2.4308obj_diff: 70.149 var acc: 0.498, TP: 0.209, TN: 0.289, FN: 0.287, FP: 0.215; 
+tot loss: 2.4974obj_diff: 70.251 var acc: 0.498, TP: 0.210, TN: 0.288, FN: 0.289, FP: 0.213; 
+tot loss: 2.4846obj_diff: 70.339 var acc: 0.498, TP: 0.210, TN: 0.288, FN: 0.289, FP: 0.213; 
+tot loss: 2.5167obj_diff: 70.213 var acc: 0.499, TP: 0.211, TN: 0.288, FN: 0.289, FP: 0.212; 
+tot loss: 2.5628obj_diff: 70.223 var acc: 0.499, TP: 0.211, TN: 0.288, FN: 0.289, FP: 0.212; 
+tot loss: 2.5141obj_diff: 70.305 var acc: 0.500, TP: 0.211, TN: 0.288, FN: 0.289, FP: 0.212; 
+[2/10 epoch] previous best: var acc 0.501; obj diff 70.344
+tot loss: 2.5167obj_diff: 70.653 var acc: 0.502, TP: 0.212, TN: 0.290, FN: 0.284, FP: 0.213; 
+tot loss: 2.5372obj_diff: 70.383 var acc: 0.503, TP: 0.213, TN: 0.290, FN: 0.286, FP: 0.211; 
+tot loss: 2.5679obj_diff: 70.334 var acc: 0.503, TP: 0.212, TN: 0.290, FN: 0.287, FP: 0.210; 
+tot loss: 2.5372obj_diff: 70.268 var acc: 0.503, TP: 0.213, TN: 0.290, FN: 0.287, FP: 0.210; 
+tot loss: 2.4333obj_diff: 70.284 var acc: 0.502, TP: 0.212, TN: 0.290, FN: 0.287, FP: 0.210; 
+tot loss: 2.5462obj_diff: 70.355 var acc: 0.502, TP: 0.212, TN: 0.290, FN: 0.287, FP: 0.210; 
+[3/10 epoch] previous best: var acc 0.501; obj diff 70.344
+number of training batches: 616
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 2.5244obj_diff: 71.448 var acc: 0.496, TP: 0.496, TN: 0.000, FN: 0.000, FP: 0.503; 
+tot loss: 2.5423obj_diff: 71.252 var acc: 0.499, TP: 0.499, TN: 0.000, FN: 0.000, FP: 0.501; 
+tot loss: 2.4641obj_diff: 71.115 var acc: 0.499, TP: 0.499, TN: 0.000, FN: 0.000, FP: 0.501; 
+tot loss: 2.4885obj_diff: 71.042 var acc: 0.500, TP: 0.500, TN: 0.000, FN: 0.000, FP: 0.500; 
+tot loss: 2.4654obj_diff: 71.008 var acc: 0.500, TP: 0.500, TN: 0.000, FN: 0.000, FP: 0.500; 
+tot loss: 2.4962obj_diff: 70.901 var acc: 0.500, TP: 0.500, TN: 0.000, FN: 0.000, FP: 0.500; 
+[2/10 epoch] previous best: var acc 0.500; obj diff 70.800
+tot loss: 2.5244obj_diff: 71.448 var acc: 0.496, TP: 0.496, TN: 0.000, FN: 0.000, FP: 0.503; 
+tot loss: 2.5423obj_diff: 71.252 var acc: 0.499, TP: 0.499, TN: 0.000, FN: 0.000, FP: 0.501; 
+tot loss: 2.4641obj_diff: 71.115 var acc: 0.499, TP: 0.499, TN: 0.000, FN: 0.000, FP: 0.501; 
+tot loss: 2.4885obj_diff: 71.042 var acc: 0.500, TP: 0.500, TN: 0.000, FN: 0.000, FP: 0.500; 
+tot loss: 2.4654obj_diff: 71.008 var acc: 0.500, TP: 0.500, TN: 0.000, FN: 0.000, FP: 0.500; 
+tot loss: 2.4962obj_diff: 70.901 var acc: 0.500, TP: 0.500, TN: 0.000, FN: 0.000, FP: 0.500; 
+[3/10 epoch] previous best: var acc 0.500; obj diff 70.800
+number of training batches: 616
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 616
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 616
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 616
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 616
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 1000
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 10.4856obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 12.8071obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 12.5954obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+tot loss: 12.8071obj_diff: 70.853 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 11.2084obj_diff: 70.920 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 14.6338obj_diff: 70.860 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 15.1298obj_diff: 70.939 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 11.5883obj_diff: 70.835 var acc: 0.501, TP: 0.000, TN: 0.501, FN: 0.499, FP: 0.000; 
+tot loss: 9.1767obj_diff: 70.738 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 13.2412obj_diff: 70.732 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+[2/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 10.4856obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 12.8071obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 12.5954obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+tot loss: 12.8071obj_diff: 70.853 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 11.2084obj_diff: 70.920 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 14.6338obj_diff: 70.860 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 15.1298obj_diff: 70.939 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 11.5883obj_diff: 70.835 var acc: 0.501, TP: 0.000, TN: 0.501, FN: 0.499, FP: 0.000; 
+tot loss: 9.1767obj_diff: 70.738 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 13.2412obj_diff: 70.732 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+[3/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 10.4856obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 12.8071obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 12.5954obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+number of training batches: 1000
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 13.2412obj_diff: 72.260 var acc: 0.504, TP: 0.504, TN: 0.000, FN: 0.000, FP: 0.496; 
+tot loss: 8.7291obj_diff: 71.420 var acc: 0.497, TP: 0.497, TN: 0.000, FN: 0.000, FP: 0.503; 
+tot loss: 12.5954obj_diff: 71.290 var acc: 0.496, TP: 0.496, TN: 0.000, FN: 0.000, FP: 0.504; 
+tot loss: 9.9742obj_diff: 70.885 var acc: 0.497, TP: 0.497, TN: 0.000, FN: 0.000, FP: 0.503; 
+tot loss: 11.9811obj_diff: 71.298 var acc: 0.497, TP: 0.497, TN: 0.000, FN: 0.000, FP: 0.503; 
+tot loss: 11.7831obj_diff: 70.907 var acc: 0.498, TP: 0.498, TN: 0.000, FN: 0.000, FP: 0.502; 
+tot loss: 15.1298obj_diff: 70.816 var acc: 0.500, TP: 0.500, TN: 0.000, FN: 0.000, FP: 0.500; 
+tot loss: 14.3919obj_diff: 70.875 var acc: 0.499, TP: 0.499, TN: 0.000, FN: 0.000, FP: 0.501; 
+tot loss: 10.6618obj_diff: 70.938 var acc: 0.498, TP: 0.498, TN: 0.000, FN: 0.000, FP: 0.502; 
+tot loss: 11.2084obj_diff: 70.989 var acc: 0.498, TP: 0.498, TN: 0.000, FN: 0.000, FP: 0.502; 
+[2/10 epoch] previous best: var acc 0.500; obj diff 70.800
+tot loss: 13.2412obj_diff: 72.260 var acc: 0.504, TP: 0.504, TN: 0.000, FN: 0.000, FP: 0.496; 
+tot loss: 8.7291obj_diff: 71.420 var acc: 0.497, TP: 0.497, TN: 0.000, FN: 0.000, FP: 0.503; 
+tot loss: 12.5954obj_diff: 71.290 var acc: 0.496, TP: 0.496, TN: 0.000, FN: 0.000, FP: 0.504; 
+tot loss: 9.9742obj_diff: 70.885 var acc: 0.497, TP: 0.497, TN: 0.000, FN: 0.000, FP: 0.503; 
+number of training batches: 1000
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 1000
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 141.0000obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 153.0000obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 152.0000obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+tot loss: 153.0000obj_diff: 70.853 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 145.0000obj_diff: 70.920 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 161.0000obj_diff: 70.860 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 163.0000obj_diff: 70.939 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 147.0000obj_diff: 70.835 var acc: 0.501, TP: 0.000, TN: 0.501, FN: 0.499, FP: 0.000; 
+tot loss: 133.0000obj_diff: 70.738 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 155.0000obj_diff: 70.732 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+[2/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 141.0000obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 153.0000obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 152.0000obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+tot loss: 153.0000obj_diff: 70.853 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 145.0000obj_diff: 70.920 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 161.0000obj_diff: 70.860 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 163.0000obj_diff: 70.939 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 147.0000obj_diff: 70.835 var acc: 0.501, TP: 0.000, TN: 0.501, FN: 0.499, FP: 0.000; 
+tot loss: 133.0000obj_diff: 70.738 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 155.0000obj_diff: 70.732 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+[3/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 141.0000obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 153.0000obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 152.0000obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+tot loss: 153.0000obj_diff: 70.853 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 145.0000obj_diff: 70.920 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 161.0000obj_diff: 70.860 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 163.0000obj_diff: 70.939 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 147.0000obj_diff: 70.835 var acc: 0.501, TP: 0.000, TN: 0.501, FN: 0.499, FP: 0.000; 
+tot loss: 133.0000obj_diff: 70.738 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 155.0000obj_diff: 70.732 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+[4/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 141.0000obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 153.0000obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 152.0000obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+tot loss: 153.0000obj_diff: 70.853 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 145.0000obj_diff: 70.920 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 161.0000obj_diff: 70.860 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 163.0000obj_diff: 70.939 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 147.0000obj_diff: 70.835 var acc: 0.501, TP: 0.000, TN: 0.501, FN: 0.499, FP: 0.000; 
+tot loss: 133.0000obj_diff: 70.738 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 155.0000obj_diff: 70.732 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+[5/10 epoch] previous best: var acc 0.500; obj diff 70.689
+tot loss: 141.0000obj_diff: 71.340 var acc: 0.496, TP: 0.000, TN: 0.496, FN: 0.504, FP: 0.000; 
+tot loss: 153.0000obj_diff: 71.305 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 152.0000obj_diff: 71.287 var acc: 0.504, TP: 0.000, TN: 0.504, FN: 0.496, FP: 0.000; 
+tot loss: 153.0000obj_diff: 70.853 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 145.0000obj_diff: 70.920 var acc: 0.503, TP: 0.000, TN: 0.503, FN: 0.497, FP: 0.000; 
+tot loss: 161.0000obj_diff: 70.860 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 163.0000obj_diff: 70.939 var acc: 0.500, TP: 0.000, TN: 0.500, FN: 0.500, FP: 0.000; 
+tot loss: 147.0000obj_diff: 70.835 var acc: 0.501, TP: 0.000, TN: 0.501, FN: 0.499, FP: 0.000; 
+tot loss: 133.0000obj_diff: 70.738 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+tot loss: 155.0000obj_diff: 70.732 var acc: 0.502, TP: 0.000, TN: 0.502, FN: 0.498, FP: 0.000; 
+number of training batches: 1000
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000

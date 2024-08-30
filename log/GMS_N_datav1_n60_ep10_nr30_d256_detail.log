@@ -1,0 +1,48 @@
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.6452, var loss: 0.6452 obj_diff: 47.135 var acc: 0.611, TP: 0.140, TN: 0.471, FN: 0.360, FP: 0.029; 
+tot loss: 0.5004, var loss: 0.5004 obj_diff: 34.959 var acc: 0.679, TP: 0.251, TN: 0.428, FN: 0.249, FP: 0.073; 
+tot loss: 0.3559, var loss: 0.3559 obj_diff: 26.644 var acc: 0.723, TP: 0.302, TN: 0.421, FN: 0.197, FP: 0.079; 
+tot loss: 0.3000, var loss: 0.3000 obj_diff: 21.450 var acc: 0.755, TP: 0.333, TN: 0.423, FN: 0.167, FP: 0.078; 
+tot loss: 0.3046, var loss: 0.3046 obj_diff: 18.036 var acc: 0.778, TP: 0.353, TN: 0.425, FN: 0.146, FP: 0.075; 
+number of training batches: 593
+number of validation batches: 75
+[1/10 epoch] previous best: var acc 0.000; obj diff 999999.000
+tot loss: 0.6592, var loss: 0.6592 obj_diff: 40.561 var acc: 0.647, TP: 0.451, TN: 0.196, FN: 0.050, FP: 0.304; 
